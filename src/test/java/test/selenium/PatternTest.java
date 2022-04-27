@@ -1,3 +1,5 @@
+package test.selenium;
+
 import java.util.regex.*;
 
 class PatternTest {
