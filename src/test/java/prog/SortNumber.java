@@ -1,4 +1,4 @@
-package newProg;
+package prog;
 
 import java.util.Scanner;
 

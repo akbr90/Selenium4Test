@@ -9,7 +9,7 @@ public class EliminateChars2 {
 		String str = "Hello AKbar Ali welcome to java";
 		str = str.toLowerCase();
 	
-		HashSet<Character> hs = new HashSet<>();
+		HashSet<Character> hs = new HashSet<Character>();
 		for(int i =0;i<str.length();i++) {
 			hs.add(str.charAt(i));
 		}

@@ -1,3 +1,5 @@
+package selenium.challenge;
+
 public class OccurnaceChar {
 
 	public static void main(String[] args) {

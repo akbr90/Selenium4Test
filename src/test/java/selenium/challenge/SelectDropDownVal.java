@@ -1,4 +1,4 @@
-package selenium4;
+package selenium.challenge;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -7,7 +7,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class DropDownChallenge {
+
+public class SelectDropDownVal {
 
 	public static void main(String[] args) throws InterruptedException {
 
